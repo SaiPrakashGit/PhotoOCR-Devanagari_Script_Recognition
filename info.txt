@@ -1,0 +1,107 @@
+--- Labling in Training Dataset ---
+
+Total 46(0-45) items ( 10 digits + 36 letters )
+
+0  --->  digit_0
+1  --->  digit_1
+2  --->  digit_2
+3  --->  digit_3
+4  --->  digit_4
+5  --->  digit_5
+6  --->  digit_6
+7  --->  digit_7
+8  --->  digit_8
+9  --->  digit_9
+10 --->  charcter_1_ka
+11 --->  charcter_2_kha
+12 --->  charcter_3_ga
+13 --->  charcter_4_gha
+14 --->  charcter_5_kna
+15 --->  charcter_6_cha
+16 --->  charcter_7_chha
+17 --->  charcter_8_ja
+18 --->  charcter_9_jha
+19 --->  charcter_10_yna
+20 --->  charcter_11_taamatar
+21 --->  charcter_12_thaa
+22 --->  charcter_13_daa
+23 --->  charcter_14_dhaa
+24 --->  charcter_15_adna
+25 --->  charcter_16_tabala
+26 --->  charcter_17_tha
+27 --->  charcter_18_da
+28 --->  charcter_19_dha
+29 --->  charcter_20_na
+30 --->  charcter_21_pa
+31 --->  charcter_22_pha
+32 --->  charcter_23_ba
+33 --->  charcter_24_bha
+34 --->  charcter_25_ma
+35 --->  charcter_26_yaw
+36 --->  charcter_27_ra
+37 --->  charcter_28_la
+38 --->  charcter_29_waw
+39 --->  charcter_30_motosaw
+40 --->  charcter_31_petchiryakha
+41 --->  charcter_32_patalosaw
+42 --->  charcter_33_ha
+43 --->  charcter_34_chhya
+44 --->  charcter_35_tra
+45 --->  charcter_36_gya
+
+
+------------------------------------------------
+
+--- Labling in Validation Dataset (The above and below labling should be same, all we need is this) ---
+
+Total 46(0-45) items ( 10 digits + 36 letters )
+
+0  --->  digit_0
+1  --->  digit_1
+2  --->  digit_2
+3  --->  digit_3
+4  --->  digit_4
+5  --->  digit_5
+6  --->  digit_6
+7  --->  digit_7
+8  --->  digit_8
+9  --->  digit_9
+10 --->  charcter_1_ka
+11 --->  charcter_2_kha
+12 --->  charcter_3_ga
+13 --->  charcter_4_gha
+14 --->  charcter_5_kna
+15 --->  charcter_6_cha
+16 --->  charcter_7_chha
+17 --->  charcter_8_ja
+18 --->  charcter_9_jha
+19 --->  charcter_10_yna
+20 --->  charcter_11_taamatar
+21 --->  charcter_12_thaa
+22 --->  charcter_13_daa
+23 --->  charcter_14_dhaa
+24 --->  charcter_15_adna
+25 --->  charcter_16_tabala
+26 --->  charcter_17_tha
+27 --->  charcter_18_da
+28 --->  charcter_19_dha
+29 --->  charcter_20_na
+30 --->  charcter_21_pa
+31 --->  charcter_22_pha
+32 --->  charcter_23_ba
+33 --->  charcter_24_bha
+34 --->  charcter_25_ma
+35 --->  charcter_26_yaw
+36 --->  charcter_27_ra
+37 --->  charcter_28_la
+38 --->  charcter_29_waw
+39 --->  charcter_30_motosaw
+40 --->  charcter_31_petchiryakha
+41 --->  charcter_32_patalosaw
+42 --->  charcter_33_ha
+43 --->  charcter_34_chhya
+44 --->  charcter_35_tra
+45 --->  charcter_36_gya
+
+
+------------------------------------------------
